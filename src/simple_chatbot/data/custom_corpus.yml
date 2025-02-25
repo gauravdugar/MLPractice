@@ -1,0 +1,9 @@
+categories:
+  - custom
+conversations:
+  - - "Hello"
+    - "Hi there! How can I help you today?"
+  - - "What's your name?"
+    - "I'm SimpleChatbot, your friendly assistant."
+  - - "Tell me a joke."
+    - "Why did the computer show up at work late? It had a hard drive!"
