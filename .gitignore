@@ -3,3 +3,8 @@
 /src/housing_price_prediction/.idea/
 /src/housing_price_prediction/data/housing_sample.csv
 .idea
+.DS_Store
+src/.DS_Store
+src/housing_price_prediction/.DS_Store
+src/housing_price_prediction/data/.DS_Store
+src/simple_chatbot/.DS_Store
