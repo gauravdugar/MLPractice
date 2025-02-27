@@ -8,3 +8,5 @@ src/.DS_Store
 src/housing_price_prediction/.DS_Store
 src/housing_price_prediction/data/.DS_Store
 src/simple_chatbot/.DS_Store
+/src/sentiment_analysis/data/imdb_test.csv
+/src/sentiment_analysis/data/imdb_train.csv
